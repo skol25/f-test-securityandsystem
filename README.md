@@ -5,6 +5,8 @@
 1. Instalar dependencias: `npm i`.
 2. En la misma terminal, ejecutar: `npm run dev`.
 
+## Deploy para test diseño responsive 
+`https://f-test-securityandsystem-v5u8.vercel.app/`
 ## Concepto de Diseño
 
 El diseño se creó basado en varias ideas, utilizando carruseles para proporcionar una mejor experiencia al usuario sin necesidad de desplazamientos excesivos. El objetivo fue crear un entorno interactivo y cómodo para que los usuarios exploren la información de las características.

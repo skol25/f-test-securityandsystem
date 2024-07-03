@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from '@/styles/components/common/Textarea.module.css';
 
 const Textarea = ({ name, placeholder, value, onChange, className, required }) => (
   <textarea

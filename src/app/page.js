@@ -8,7 +8,7 @@ import '@/styles/global.css';
 export default function Home() {
   return (
     <div>
-      <Header username={"Jhon doe"} profileImage={"/images/user_icon.svg"} />
+      <Header username={"Andres Lobo"} profileImage={"/images/user_icon.svg"} />
       <About />
       <Interests />
       <ContactForm />

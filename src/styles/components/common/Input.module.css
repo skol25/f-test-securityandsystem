@@ -1,0 +1,13 @@
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .errorInput {
+    border-color: red;
+  }
+  
